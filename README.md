@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there, I'm Gabriel 👋
 
-<!--
-**Gabriel200622/Gabriel200622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18-year-old software developer and computer science student at Goldsmiths, University of London.
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various personal and academic projects.
+- 🌱 I’m constantly learning new technologies and improving my skills in software development.
+- 👯 I’m looking to collaborate on interesting projects and open-source contributions.
+- 🤔 I’m looking for help with advanced algorithms and software design patterns.
+- 💬 Ask me about programming, software development, or anything tech-related.
+- 📫 How to reach me: gdlozano2006@gmail.com.
+- 🎮 Fun fact: I love videogames.
+
+### 🛠️ Skills
+
+- **Languages:** TypeScript, C#, Python, JavaScript 
+- **Frameworks/Technologies:** React, Node.js, Next.js, Django, Flask
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, VS Code
+
+### 📊 My GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel200622&show_icons=true&hide=contribs,prs)
+
+### 📫 Let's Connect
+
+- LinkedIn: [Gabriel LinkedIn](https://www.linkedin.com/in/gabriel-david-lozano-ochoa-08b844269/)
