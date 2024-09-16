@@ -7,7 +7,6 @@ I'm an 18-year-old software developer and computer science student at Goldsmiths
 - 🔭 I’m currently working on various personal and academic projects.
 - 🌱 I’m constantly learning new technologies and improving my skills in software development.
 - 👯 I’m looking to collaborate on interesting projects and open-source contributions.
-- 🤔 I’m looking for help with advanced algorithms and software design patterns.
 - 💬 Ask me about programming, software development, or anything tech-related.
 - 📫 How to reach me: gdlozano2006@gmail.com.
 - 🎮 Fun fact: I love videogames.
