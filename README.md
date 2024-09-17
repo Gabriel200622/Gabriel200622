@@ -13,10 +13,10 @@ I'm an 18-year-old software developer and computer science student at Goldsmiths
 
 ### 🛠️ Skills
 
-- **Languages:** TypeScript, C#, Python, JavaScript 
-- **Frameworks/Technologies:** React, Node.js, Next.js, Django, Flask
+- **Languages:** TypeScript, C#, C++, C, Python, JavaScript, Java
+- **Frameworks/Technologies:** React, Node.js, Next.js, Django, Flask, Nestjs, Bun
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, VS Code
+- **Tools:** Git, Docker, VS Code, Turborepo
 
 ### 📊 My GitHub Stats
 
