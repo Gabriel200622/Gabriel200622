@@ -9,11 +9,11 @@ I'm an 18-year-old software engineer and computer science student at Goldsmiths,
 - 👯 I’m looking to collaborate on interesting projects and open-source contributions.
 - 💬 Ask me about programming, software development, or anything tech-related.
 - 📫 How to reach me: gdlozano2006@gmail.com.
-- 🎮 Fun fact: I love videogames.
+- 🎮 Fun fact: I love video games—and making them too.
 
 ### 🛠️ Skills
 
-- **Languages:** TypeScript, C#, C++, C, Python, JavaScript, Java
+- **Languages:** TypeScript, C#, C++, C, Python, JavaScript, Java, Go
 - **Frameworks/Technologies:** React, Node.js, Next.js, Django, Flask, Nestjs, Bun, GraphQL, RabbitMQ, Kafka, NATS
 - **Databases:** MySQL, MongoDB, PostgreSQL, Redis
 - **Tools:** Git, Docker, VS Code, Turborepo, Figma, AWS
