@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel 👋
 
-I'm an 18-year-old software engineer and computer science student at Goldsmiths, University of London.
+I'm an 19-year-old software engineer and computer science student at Goldsmiths, University of London.
 
 ### 🚀 About Me
 
@@ -16,7 +16,7 @@ I'm an 18-year-old software engineer and computer science student at Goldsmiths,
 - **Languages:** TypeScript, C#, C++, C, Python, JavaScript, Java, Go
 - **Frameworks/Technologies:** React, Node.js, Next.js, Django, Flask, Nestjs, Bun, GraphQL, RabbitMQ, Kafka, NATS
 - **Databases:** MySQL, MongoDB, PostgreSQL, Redis
-- **Tools:** Git, Docker, VS Code, Turborepo, Figma, AWS
+- **Tools:** Git, Docker, Cursor, Turborepo, Figma, AWS
 
 ### 📊 My GitHub Stats
 
