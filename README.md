@@ -1,6 +1,6 @@
 ## Hi there, I'm Gabriel 👋
 
-I'm an 19-year-old software engineer and computer science student at Goldsmiths, University of London.
+I'm an 20-year-old software engineer and computer science student at Goldsmiths, University of London.
 
 ### 🚀 About Me
 
